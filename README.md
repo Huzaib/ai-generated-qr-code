@@ -5,16 +5,28 @@
 Generate beautiful, artistic QR codes using Stable Diffusion and ControlNet. This tool transforms ordinary QR codes into stunning artwork while maintaining their functionality.
 
 ## 📌 Sample QR Codes
-![Sample QR Code 1](resources/qr1.png)
-![Sample QR Code 2](resources/qr2.png)
-![Sample QR Code 3](resources/qr3.png)
-![Sample QR Code 4](resources/qr4.png)
-![Sample QR Code 5](resources/qr5.png)
-![Sample QR Code 6](resources/qr6.png)
-![Sample QR Code 7](resources/qr7.png)
-![Sample QR Code 8](resources/qr8.png)
-![Sample QR Code 9](resources/qr9.png)
-![Sample QR Code 10](resources/qr10.png)
+<table>
+  <tr>
+    <td><img src="resources/qr1.png" alt="Sample QR Code 1"></td>
+    <td><img src="resources/qr2.png" alt="Sample QR Code 2"></td>
+  </tr>
+  <tr>
+    <td><img src="resources/qr3.png" alt="Sample QR Code 3"></td>
+    <td><img src="resources/qr4.png" alt="Sample QR Code 4"></td>
+  </tr>
+  <tr>
+    <td><img src="resources/qr5.png" alt="Sample QR Code 5"></td>
+    <td><img src="resources/qr6.png" alt="Sample QR Code 6"></td>
+  </tr>
+  <tr>
+    <td><img src="resources/qr7.png" alt="Sample QR Code 7"></td>
+    <td><img src="resources/qr8.png" alt="Sample QR Code 8"></td>
+  </tr>
+  <tr>
+    <td><img src="resources/qr9.png" alt="Sample QR Code 9"></td>
+    <td><img src="resources/qr10.png" alt="Sample QR Code 10"></td>
+  </tr>
+</table>
 
 ---
 
@@ -75,7 +87,7 @@ Generate beautiful, artistic QR codes using Stable Diffusion and ControlNet. Thi
 
 ### **Artistic Generation**:
 1. Choose between text prompt or image input.
-2. Adjust control strength (0-1).
+2. Adjust control strength.
 3. Add negative prompts (optional).
 4. Click "Generate".
 
@@ -92,7 +104,7 @@ Here are some effective prompt examples:
 
 
 ### **Performance**
-- **Generation Time**: ~5-10 seconds per image
+- **Generation Time**: ~10-20 seconds per image
 - **Resolution**: 768x768 pixels
 - **Supported Formats**: PNG, JPEG
 
