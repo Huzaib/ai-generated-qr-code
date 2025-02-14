@@ -1,0 +1,14 @@
+torch==2.2.0
+torchvision==0.17.0
+torchaudio==2.2.0
+xformers==0.0.24
+gradio==3.50.2
+diffusers
+transformers
+accelerate
+Pillow
+qrcode
+pydantic>=2.0
+fastapi>=0.100.0
+
+--find-links https://download.pytorch.org/whl/cu121

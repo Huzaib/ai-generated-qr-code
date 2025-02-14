@@ -1,0 +1,69 @@
+# Python virtual environments
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Model files and checkpoints
+control_v1p_sd15_qrcode_monster/
+dreamshaper_8/
+qrcode_env/
+qrcode/
+*.safetensors
+*.bin
+*.ckpt
+*.pth
+models/
+checkpoints/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
+temp/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# Gradio specific
+flagged/
+gradio_cached_examples/
+
+# Output images and media
+outputs/
+results/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.flv
