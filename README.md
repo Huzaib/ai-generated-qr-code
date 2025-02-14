@@ -5,16 +5,16 @@
 Generate beautiful, artistic QR codes using Stable Diffusion and ControlNet. This tool transforms ordinary QR codes into stunning artwork while maintaining their functionality.
 
 ## 📌 Sample QR Codes
-![Sample QR Code 1](results/qr1.png)
-![Sample QR Code 2](results/qr2.png)
-![Sample QR Code 3](results/qr3.png)
-![Sample QR Code 4](results/qr4.png)
-![Sample QR Code 5](results/qr5.png)
-![Sample QR Code 6](results/qr6.png)
-![Sample QR Code 7](results/qr7.png)
-![Sample QR Code 8](results/qr8.png)
-![Sample QR Code 9](results/qr9.png)
-![Sample QR Code 10](results/qr10.png)
+![Sample QR Code 1](resources/qr1.png)
+![Sample QR Code 2](resources/qr2.png)
+![Sample QR Code 3](resources/qr3.png)
+![Sample QR Code 4](resources/qr4.png)
+![Sample QR Code 5](resources/qr5.png)
+![Sample QR Code 6](resources/qr6.png)
+![Sample QR Code 7](resources/qr7.png)
+![Sample QR Code 8](resources/qr8.png)
+![Sample QR Code 9](resources/qr9.png)
+![Sample QR Code 10](resources/qr10.png)
 
 ---
 
