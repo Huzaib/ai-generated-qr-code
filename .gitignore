@@ -53,17 +53,3 @@ build/
 # Gradio specific
 flagged/
 gradio_cached_examples/
-
-# Output images and media
-outputs/
-results/
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.webp
-*.mp4
-*.avi
-*.mkv
-*.mov
-*.flv
